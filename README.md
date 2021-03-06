@@ -1,0 +1,1 @@
+mc_server_as_service
