@@ -1,0 +1,6 @@
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\bin\Release\ConsoleService_thing.exe.config
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\bin\Release\ConsoleService_thing.exe
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\bin\Release\ConsoleService_thing.pdb
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\obj\Release\ConsoleService_thing.csproj.CoreCompileInputs.cache
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\obj\Release\ConsoleService_thing.exe
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\obj\Release\ConsoleService_thing.pdb

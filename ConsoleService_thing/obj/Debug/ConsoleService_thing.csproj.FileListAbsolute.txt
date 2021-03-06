@@ -1,0 +1,7 @@
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\bin\Debug\ConsoleService_thing.exe.config
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\bin\Debug\ConsoleService_thing.exe
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\bin\Debug\ConsoleService_thing.pdb
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\obj\Debug\ConsoleService_thing.csprojAssemblyReference.cache
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\obj\Debug\ConsoleService_thing.csproj.CoreCompileInputs.cache
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\obj\Debug\ConsoleService_thing.exe
+C:\Users\Boomkop4\source\repos\ConsoleService_thing\ConsoleService_thing\obj\Debug\ConsoleService_thing.pdb

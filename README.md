@@ -1,1 +1,1 @@
-mc_server_as_service
+ConsoleService_thing
